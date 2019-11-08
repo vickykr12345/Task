@@ -1,0 +1,185 @@
+#navbarbrand{
+	height:70px;
+	max-width:95%;
+}
+#bell{
+	font-size: 32px;
+	margin-right:20px;
+	 
+}
+
+ 
+#bell12{
+	font-size: 28px;
+	 
+}
+
+ 
+
+ #center-card{
+  max-width:90%;
+  align-items:center;
+  margin-left: 70px;
+  background-color:#d5e3e0;
+}
+ 
+
+@media screen and (min-width: 680px) {
+    #Content-Store1{
+      font-family: 'Roboto', sans-serif;
+	 font-size:35px;
+	 padding-left:0px;
+	 font-weight:500;
+	 margin-left:-300px;
+	padding-left:-300px;
+    }
+}
+
+@media screen and (max-width: 681px) {
+ #Content-Store1{
+    font-family: 'Roboto', sans-serif;
+	 font-size:35px;
+	 padding-left:0px;
+	 font-weight:500;
+	 
+    }
+}
+
+@media screen and (min-width: 680px) {
+    #card-deck{
+    
+	 margin-left:70px;
+ 	    margin-right: -300px;
+    }
+}
+
+@media screen and (max-width: 681px) {
+ #card-deck{
+    
+	  margin-left:1px;
+	 
+    }
+}
+
+ 
+
+ @media screen and (min-width: 680px) {
+ #dummy-card-image{
+ width:80px;
+	height:80px;
+	border-radius:50%;
+	margin-left:25px;
+	margin-right:25px; 
+ margin-top:2px; 
+    }
+}
+
+@media screen and (max-width: 681px) {
+ #dummy-card-image{
+  width:80px;
+	height:80px;
+	border-radius:50%;
+	margin-left:2px;
+	margin-right:5px; 
+ margin-top:2px; 
+    }
+    }
+}
+
+
+@media screen and (min-width: 680px) {
+ #blog{
+    font-size:22px;
+	font-weight:600;
+	font-family: 'Rubik', sans-serif;
+	 word-spacing:35px;
+	 letter-spacing:1px;
+    }
+}
+
+@media screen and (max-width: 681px) {
+ #blog{
+   font-size:18x;
+	font-weight:600;
+	font-family: 'Rubik', sans-serif;
+ 
+	 letter-spacing:1px;
+    }
+}
+
+
+@media screen and (min-width: 680px) {
+ #money{
+    
+	font-size:18px;
+	font-weight:500;
+	font-family: 'Roboto', sans-serif;
+	padding-top:2px;
+	letter-spacing:1px; 
+    }
+}
+
+@media screen and (max-width: 681px) {
+#money{
+   
+	font-size:15px;
+	font-weight:500;
+	font-family: 'Roboto', sans-serif;
+	padding-top:2px;
+	letter-spacing:1px; 
+    }
+}
+
+ 
+#order{
+	font-size:15px;
+	font-family: 'Rubik', sans-serif;
+   letter-spacing:1px;
+}
+
+#card-man-text{
+	font-family: 'Roboto', sans-serif;;
+	font-size: 14px;
+	word-spacing:2px;
+}
+
+@media screen and (min-width: 680px) {
+    #card-deck12{
+    
+	 margin-left:55px;
+ 	 margin-right:-162px;
+ 	 }
+}
+
+@media screen and (max-width: 681px) {
+ #card-deck12{
+    
+	  margin-left:1px;
+	  
+    }
+}
+ 
+ #footer-social-icon{
+ 	font-size:35px;
+ 	color:#8395A7;
+ 	padding-left:30px;
+ 	padding-right:30px;
+ }
+
+ #Copyright1{
+ 	font-size:17px;
+   font-family: 'Roboto', sans-serif;
+ }
+ #Copyright2{
+ 	font-size:15px;
+ font-family: 'Roboto', sans-serif;
+ }
+
+ #order-top{
+ 	font-size:18px;
+	font-family: 'Monda', sans-serif;
+	font-style:bold;
+	font-weight:500;
+   word-spacing:1px;
+}
+ }
